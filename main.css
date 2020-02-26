@@ -1,0 +1,30 @@
+:root {
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1.3em;
+    line-height: 1.3;
+}
+
+h1 {
+    font-family:'PT Serif';
+    font-size: 2.5em;
+    line-height: 1.3;
+}
+
+h2 {
+    font-family:'PT Serif';
+    font-size: 1.9;
+    line-height: 1.3;
+}
+@media only screen and
+(min-width: 600px) {
+  .chapter {
+    max-width: 75vw}
+  }
+}
+
+@media only screen and
+(min-width: 900px) {
+  .chapter {
+      max-width: 50vw}
+  }
+}
